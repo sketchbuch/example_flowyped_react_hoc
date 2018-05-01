@@ -1,2 +1,2 @@
-# example_flowyped_react_hoc
-An example of a flowtyped React HoC
+# Example react code
+flowtyped_hoc.js - an example of a flowtypd react HoC
