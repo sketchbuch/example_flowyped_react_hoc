@@ -1,2 +1,3 @@
 # Example react code
-flowtyped_hoc.js - an example of a flowtypd react HoC
+
+* [flowtypd react HoC](flowtyped_hoc.js)
