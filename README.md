@@ -1,5 +1,6 @@
 # Example react code
 Examples of some React Code for personal reference.
 
-* [flowtypd react HoC](/examples/flowtyped_hoc.js)
-* [jest: mocking an import inside the component being tested](/examples/jest_mock_inport.js)
+* [Flowtype: React HoC](/examples/flowtyped_hoc.js)
+* [Flowtype: Return types for generators](/examples/flowtyped_generators.js)
+* [Jest: Mocking an import inside the component being tested](/examples/jest_mock_inport.js)
